@@ -1,0 +1,19 @@
+.root {
+  position: relative;
+  width: 243.6px;
+  height: 348px;
+  align-items: center;
+  overflow: hidden;
+}
+.capa2 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 243.6px;
+  height: 348px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

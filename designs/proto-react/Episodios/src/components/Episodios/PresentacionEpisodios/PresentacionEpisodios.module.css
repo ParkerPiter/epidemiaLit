@@ -1,0 +1,250 @@
+.infoEpisodios.infoEpisodios {
+  position: absolute;
+  left: 24.7656%;
+  right: 51.7188%;
+  top: 8%;
+  bottom: 70%;
+}
+.NosotrosPensamos {
+  color: #000;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.iconsPlay.iconsPlay {
+  position: absolute;
+  left: 38.6719%;
+  right: 55.8594%;
+  top: 37%;
+  bottom: 39.6667%;
+  width: initial;
+  height: initial;
+}
+.group.group {
+  width: 70px;
+  height: 70px;
+}
+.group {
+  width: 70px;
+  height: 70px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.iconsOndaDeSonido.iconsOndaDeSonido {
+  position: absolute;
+  left: 45.625%;
+  right: 47.9688%;
+  top: 35%;
+  bottom: 37.6667%;
+  width: initial;
+  height: initial;
+}
+.capa1.capa1 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.capa1 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.iconsOndaDeSonido2.iconsOndaDeSonido2 {
+  position: absolute;
+  left: 66.0156%;
+  right: 27.5781%;
+  top: 35%;
+  bottom: 37.6667%;
+  width: initial;
+  height: initial;
+}
+.capa12.capa12 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.capa12 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.iconsOndaDeSonido3.iconsOndaDeSonido3 {
+  position: absolute;
+  left: 72.8125%;
+  right: 20.7813%;
+  top: 35%;
+  bottom: 37.6667%;
+  width: initial;
+  height: initial;
+}
+.capa13.capa13 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.capa13 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.iconsOndaDeSonido4.iconsOndaDeSonido4 {
+  position: absolute;
+  left: 52.4219%;
+  right: 41.1719%;
+  top: 35%;
+  bottom: 37.6667%;
+  width: initial;
+  height: initial;
+}
+.capa14.capa14 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.capa14 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.iconsOndaDeSonido5.iconsOndaDeSonido5 {
+  position: absolute;
+  left: 59.2188%;
+  right: 34.375%;
+  top: 35%;
+  bottom: 37.6667%;
+  width: initial;
+  height: initial;
+}
+.capa15.capa15 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.capa15 {
+  left: -0.0043px;
+  top: 16.434px;
+  width: 81.8371px;
+  height: 49.1302px;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.imageEpisodios.imageEpisodios {
+  position: absolute;
+  left: 1.3281%;
+  right: 76.875%;
+  top: 7.3333%;
+  bottom: 7.3333%;
+  width: initial;
+  height: initial;
+}
+.rectangle.rectangle {
+  right: -40.144%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle3.jpg');
+}
+.rectangle2.rectangle2 {
+  right: 43.778%;
+  bottom: 2.8641%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle4.jpg');
+  transform: matrix(0.9732, -0.2301, 0.231, 0.973, 0, 0);
+}
+.group2.group2 {
+  left: 76.5908px;
+  top: 107.7877px;
+  width: 197.791px;
+  height: 147.9431px;
+}
+.group2 {
+  left: 76.5908px;
+  top: 107.7877px;
+  width: 197.791px;
+  height: 147.9431px;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 1280px;
+  height: 300px;
+  align-items: flex-start;
+}
+._50280 {
+  color: #f4bece;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 29.9219%;
+  right: 62.8125%;
+  top: 45.3333%;
+  bottom: 43.6667%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle6 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 3px #f4bece;
+  outline-offset: -3px;
+  border-radius: 30px;
+}
+.loremIpsumDolorSitAmetConsecte {
+  color: #000;
+  font-size: 20px;
+  font-weight: 100;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 25.7813%;
+  right: 3.125%;
+  top: 66.6667%;
+  bottom: 9.3333%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

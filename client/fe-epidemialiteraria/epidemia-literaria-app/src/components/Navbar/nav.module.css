@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: gray;
+    align-content: center;
+    padding: 1%;
+    align-items: center;
+}
+
+.links{
+    text-decoration: none; /* Esto quita el subrayado */
+    color: white; /* Esto cambia el color a azul */
+}

@@ -1,0 +1,54 @@
+.root {
+  position: relative;
+  width: 590px;
+  height: 432px;
+  align-items: flex-start;
+}
+.ePIDEMIALITERARIA {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 21.2963%;
+  bottom: 0;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #f4bece;
+  font-size: 211px;
+  line-height: 170px;
+  font-style: italic;
+  font-family: Zuume, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #f4bece;
+  font-size: 211px;
+  line-height: 170px;
+  font-style: italic;
+  font-family: Zuume, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.pODCAST {
+  color: #f4bece;
+  font-size: 84px;
+  font-style: italic;
+  font-family: Zuume, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.5763%;
+  right: 59.1525%;
+  top: 0;
+  bottom: 78.7037%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

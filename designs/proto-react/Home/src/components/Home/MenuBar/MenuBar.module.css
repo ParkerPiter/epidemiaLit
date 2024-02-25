@@ -1,0 +1,6 @@
+.root {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 15px;
+}

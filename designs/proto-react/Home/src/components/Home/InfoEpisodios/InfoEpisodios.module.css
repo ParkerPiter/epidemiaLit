@@ -1,0 +1,41 @@
+.root {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 1px;
+}
+.NosotrosPensamos {
+  color: #000;
+  font-size: 64px;
+  font-weight: 600;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 406px;
+  height: 97px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.loremIpsumDolorSitAmetConsecte {
+  width: 402px;
+  height: 347px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 24px;
+  font-weight: 100;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 24px;
+  font-weight: 100;
+  font-family: Cervino, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

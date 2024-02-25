@@ -1,0 +1,43 @@
+.root {
+  position: relative;
+  width: 623px;
+  height: 573px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.rectangle {
+  position: absolute;
+  left: -33.0221%;
+  right: -40.1439%;
+  top: 4.6162%;
+  bottom: 1.2131%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle2 {
+  transform-origin: top left;
+  position: absolute;
+  left: 0;
+  right: 43.7709%;
+  top: 14.0351%;
+  bottom: 2.8747%;
+  background-image:/* webpackIgnore: true */ url('/assets/rectangle2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: matrix(0.973, -0.2306, 0.2305, 0.9731, 0, 0);
+}
+.group {
+  position: absolute;
+  left: 171.0254px;
+  top: 241.2591px;
+  width: 441.6624px;
+  height: 331.1382px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

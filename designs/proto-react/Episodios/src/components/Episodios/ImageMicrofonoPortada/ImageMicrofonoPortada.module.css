@@ -1,0 +1,17 @@
+.root {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  align-items: flex-start;
+}
+._509700ceCb7f4630Beb0A2ddc1a586 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('/assets/_509700ceCb7f4630Beb0A2ddc1a586.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
